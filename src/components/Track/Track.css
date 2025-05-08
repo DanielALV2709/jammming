@@ -1,0 +1,26 @@
+.Track {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .Track-info h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .Track-info p {
+    margin: 5px 0 0;
+    color: #666;
+    font-size: 14px;
+  }
+  
+  .Track-action {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: #1DB954;
+  }
